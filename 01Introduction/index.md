@@ -8,4 +8,4 @@ Kibana是一款开源的分析及可视化平台，旨在与ElasticSearch协作�
 
 设置Kibana也很简单。仅花费几分钟就可以安装Kibana并开始分析ElasticSearch，无需代码和额外的要求。
 
-[设置Kibana](../02SetUpKibana/index.md)
+> 下一节->[设置Kibana](../02SetUpKibana/index.md)
