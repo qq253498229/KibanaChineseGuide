@@ -1,5 +1,7 @@
 # Kibana
 
+由于已有[Kibana中文翻译](http://167.160.183.150:8080/cn/index.html)，所以放弃更新了
+
 - [介绍](01Introduction/index.md)
 - [准备](02SetUpKibana/index.md)
 - Set Up X-Pack(waiting)
